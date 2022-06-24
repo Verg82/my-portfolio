@@ -5,19 +5,36 @@
 Занимаюсь разработкой ПО, сайтов и мобильных приложений.
 
 Профессиональные навыки:
-* Компьютеры, серверы и сетевое оборудование
-* Разработка сетевых систем мониторинга и удалённого администрирования
-* Delphi
-* Borland C++ Builder
+* Разработка ПО;
+* Разработка сетевых систем мониторинга и удалённого администрирования;
+* Разработка систем резервного копирования;
+* Разработка баз данных;
+* Разработка облачных систем и микросервисов;
+* Разработка web-приложений, лендингов, сайтов;
+* Разработка мобильных приложений;
+* Компьютерная графика и 3D;
+* Компьютеры, серверы и сетевое оборудование;
+
+Среды разработки и программирование:
+* Java
+* JavaScript
+* PHP
+* HTML
+* CSS
+* jQuery
+* Node.js
+* React
 * C++
 * С#
-* Java
+* Swift
+* Delphi
+* Borland C++ Builder
 * VBScript (для Active Directory)
 * Программирование с применением графических трёхмерных технологий (графический движок) на С++ DirectX API
 
 * Базы данных 
   - MySQL
-  - MsSQL 
+  - Microsoft SQL 
   - Postgres
   - Redis
   - Amazon AWS NoSQL DynamoDB
@@ -25,16 +42,20 @@
 
 * Разработка для Web - BackEnd и FrontEnd: 
   - HTML+CSS+JS+JSON+JQuery+MySQL+PHP (CodeIgniter, Laravel, Symphony) (full stack)
+  - HTML 5
+  - CSS 3
   - JavaScript
+  - jQuery
+  - PHP
   - Node.js
   - ReactJS
-  - WordPress
-  - Drupal
+  - WordPress (CMS)
+  - Drupal (FMS)
   - Java Tomcat WebServer и JavaServlets, Java WebSockets, Jetty WebSockets
 
 * Разработка мобильных приложений: 
   - Android Studio - Java 
-  - iOS XCode - Swift
+  - iOS (MacOS) XCode - Swift
   - React Native
   - Xamarin
 
@@ -50,3 +71,4 @@
 * Работа с графическими программами:
   - Figma
   - Adobe Photoshop
+  
